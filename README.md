@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hallo! Ich bin Maruan Mohamad
 
-<!--
-**Maruan03/Maruan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+Ich bin ein Wirtschaftsinformatikstudent mit einer Leidenschaft für das Erlernen neuer Technologien und Strategien und mag das Arbeiten an spannenden Projekten sehr . Ich interessiere mich besonders für:
+- **Webentwicklung**
+- **SAP und Produktionsabläufe**
 
-Here are some ideas to get you started:
+## Woran ich derzeit arbeite
+- Mobile Anwendung Projekt (App)
+- Unternehmenssoftware Projekt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich lernen möchte
+- Mehr über **Unternehmenssoftware** und **Künstliche Intelligenz**.
+- **IT Consulting**
+
+## Meine Hobbys
+- Programmieren
+- Ringen
+- Wandern 
+
+## Kontaktiere mich
+- GitHub: [GitHub-Profilname](https://github.com/Maruan03)
