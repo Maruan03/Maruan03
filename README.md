@@ -3,7 +3,7 @@
 ## Über mich
 Ich bin ein Wirtschaftsinformatikstudent mit einer Leidenschaft für das Erlernen neuer Technologien und Strategien und mag das Arbeiten an spannenden Projekten sehr . Ich interessiere mich besonders für:
 - **Webentwicklung**
-- **SAP und Produktionsabläufe**
+- **IT-Consulting**
 
 ## Woran ich derzeit arbeite
 - Mobile Anwendung Projekt (App)
