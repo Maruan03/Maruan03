@@ -4,14 +4,11 @@
 Ich bin ein Wirtschaftsinformatikstudent mit einer Leidenschaft für das Erlernen neuer Technologien und Strategien und mag das Arbeiten an spannenden Projekten sehr . Ich interessiere mich besonders für:
 - **Webentwicklung**
 - **IT-Consulting**
+- **Cybersecurity**
 
 ## Woran ich derzeit arbeite
 - Mobile Anwendung Projekt (App)
 - Unternehmenssoftware Projekt
-
-## Was ich lernen möchte
-- Mehr über **Unternehmenssoftware** und **Künstliche Intelligenz**.
-- **IT Consulting**
 
 ## Meine Hobbys
 - Programmieren
